@@ -1,2 +1,2 @@
 # Draken
-Banir contas de hago pelo número e desbanir 
+Banir contas de hago pelo id e desbanir 
